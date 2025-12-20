@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/bin/mysql -u root
